@@ -1,77 +1,188 @@
-#EXTINF:-1 tvg-id="" tvg-name="Cine 1 Full HD" tvg-logo="" group-title="PELICULAS",Cine 1 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1749
-#EXTINF:-1 tvg-id="" tvg-name="Cine 2 Full HD" tvg-logo="" group-title="PELICULAS",Cine 2 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1750
-#EXTINF:-1 tvg-id="" tvg-name="Cine 3 Full HD" tvg-logo="" group-title="PELICULAS",Cine 3 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1751
-#EXTINF:-1 tvg-id="" tvg-name="Cine 4 Full HD" tvg-logo="" group-title="PELICULAS",Cine 4 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1875
-#EXTINF:-1 tvg-id="" tvg-name="Cine 5 Full HD" tvg-logo="" group-title="PELICULAS",Cine 5 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1876
-#EXTINF:-1 tvg-id="" tvg-name="Cine 6 Full HD" tvg-logo="" group-title="PELICULAS",Cine 6 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1878
-#EXTINF:-1 tvg-id="" tvg-name="Cine 7 Full HD" tvg-logo="" group-title="PELICULAS",Cine 7 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1879
-#EXTINF:-1 tvg-id="" tvg-name="Cine 8 Full HD" tvg-logo="" group-title="PELICULAS",Cine 8 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1880
-#EXTINF:-1 tvg-id="" tvg-name="Cine 9 Full HD" tvg-logo="" group-title="PELICULAS",Cine 9 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1881
-#EXTINF:-1 tvg-id="" tvg-name="Cine 10 Full HD" tvg-logo="" group-title="PELICULAS",Cine 10 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1882
-#EXTINF:-1 tvg-id="" tvg-name="Cine 11 Full HD" tvg-logo="" group-title="PELICULAS",Cine 11 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1883
-#EXTINF:-1 tvg-id="" tvg-name="Cine 12 Full HD" tvg-logo="" group-title="PELICULAS",Cine 12 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1884
-#EXTINF:-1 tvg-id="" tvg-name="Cine 13 Full HD" tvg-logo="" group-title="PELICULAS",Cine 13 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1885
-#EXTINF:-1 tvg-id="" tvg-name="Cine 14 Full HD" tvg-logo="" group-title="PELICULAS",Cine 14 Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1886
-#EXTINF:-1 tvg-id="" tvg-name="Latino Full HD" tvg-logo="" group-title="PELICULAS",Latino Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1887
-EXTINF:-1 tvg-id="" tvg-name="HBO West Full HD" tvg-logo="" group-title="PELICULAS",HBO West Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1889
-#EXTINF:-1 tvg-id="" tvg-name="Latino | HBO Plus Full HD" tvg-logo="" group-title="PELICULAS",Latino | HBO Plus Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1890
-#EXTINF:-1 tvg-id="" tvg-name="Starz West Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz West Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1891
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1892
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Comedy Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1893
-#EXTINF:-1 tvg-id="" tvg-name="Showtime West Full HD" tvg-logo="" group-title="PELICULAS",Showtime West Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1894
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Full HD" tvg-logo="" group-title="PELICULAS",Showtime Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1895
-#EXTINF:-1 tvg-id="" tvg-name="Showtime East Full HD" tvg-logo="" group-title="PELICULAS",Showtime East Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1896
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Beyond Full HD" tvg-logo="" group-title="PELICULAS",Showtime Beyond Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1897
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Full HD" tvg-logo="" group-title="PELICULAS",Cinemax Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1898
-#EXTINF:-1 tvg-id="" tvg-name="Starz Full Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Full Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1900
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Edge Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1901
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Comedy Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1902
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Cinema Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1903
-#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Kids & Family Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1904
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1905
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Action Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1906
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic Full HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Classic Full HD 
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1907
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black Full HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Black Full HD 
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1908
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Starz_2008.png/320px-Starz_2008.png" group-title="PELICULAS",Starz Encore Suspense HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1910
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://51.222.152.107:81/posters/1502752859399.jpg" group-title="CINEMA MRZUTV.NET",A&E
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3019
 
-#EXTINF:-1 tvg-id="" tvg-name="MoviePlex HD" tvg-logo="" group-title="PELICULAS",MoviePlex HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1911
-#EXTINF:-1 tvg-id="" tvg-name="MovieMax Full HD " tvg-logo="" group-title="PELICULAS",MovieMax Full HD 
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1919
-#EXTINF:-1 tvg-id="" tvg-name="Cine Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/198px-Logo_Golden_TV.svg.png" group-title="PELICULAS",Cine Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/187
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://51.222.152.107:81/posters/1502752868464.jpg" group-title="CINEMA MRZUTV.NET",AMC
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3021
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://51.222.152.107:81/posters/1502752888382.jpg" group-title="CINEMA MRZUTV.NET",AXN
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3025
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://51.222.152.107:81/posters/1502753048250.jpg" group-title="CINEMA MRZUTV.NET",Cinecanal
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3040
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://51.222.152.107:81/posters/1502753073236.jpg" group-title="CINEMA MRZUTV.NET",Cinemax
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3041
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX (Star Channel)" tvg-logo="http://51.222.152.107:81/posters/1502753530268.jpg" group-title="CINEMA MRZUTV.NET",FOX (Star Channel)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3072
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Action (Star Action)" tvg-logo="http://51.222.152.107:81/posters/1502753549312.jpg" group-title="CINEMA MRZUTV.NET",FOX Premium Action (Star Action)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3073
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Cinema (Star Cinema)" tvg-logo="http://51.222.152.107:81/posters/1502753602562.jpg" group-title="CINEMA MRZUTV.NET",FOX Cinema (Star Cinema)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3074
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Classics (Fox Premium Classics)" tvg-logo="http://51.222.152.107:81/posters/1502753643537.jpg" group-title="CINEMA MRZUTV.NET",Star Classics (Fox Premium Classics)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3075
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy (Star Comedy)" tvg-logo="" group-title="CINEMA MRZUTV.NET",FOX Comedy (Star Comedy)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3076
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Family (Star Fun)" tvg-logo="" group-title="CINEMA MRZUTV.NET",FOX Family (Star Fun)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3077
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life (Star Life)" tvg-logo="http://51.222.152.107:81/posters/1502753654516.jpg" group-title="CINEMA MRZUTV.NET",FOX Life (Star Life)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3078
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Movies (Star Hits)" tvg-logo="http://51.222.152.107:81/posters/1502753666470.jpg" group-title="CINEMA MRZUTV.NET",FOX Premium Movies (Star Hits)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3079
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium Series (Star Series)" tvg-logo="" group-title="CINEMA MRZUTV.NET",FOX Premium Series (Star Series)
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3080
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://51.222.152.107:81/posters/1502753699339.jpg" group-title="CINEMA MRZUTV.NET",FX
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3084
+
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="" group-title="CINEMA MRZUTV.NET",FXM
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3085
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="http://51.222.152.107:81/posters/1502753748224.jpg" group-title="CINEMA MRZUTV.NET",Golden
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3089
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden EDGE" tvg-logo="http://51.222.152.107:81/posters/1502753859324.jpg" group-title="CINEMA MRZUTV.NET",Golden EDGE
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3090
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="http://51.222.152.107:81/posters/1596473612363.jpg" group-title="CINEMA MRZUTV.NET",Golden Plus
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3091
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premier" tvg-logo="" group-title="CINEMA MRZUTV.NET",Golden Premier
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3092
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://51.222.152.107:81/posters/1502753921213.jpg" group-title="CINEMA MRZUTV.NET",Lifetime
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3101
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://51.222.152.107:81/posters/1530591231314.jpg" group-title="CINEMA MRZUTV.NET",Paramount Channel
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3116
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://51.222.152.107:81/posters/1502754145178.jpg" group-title="CINEMA MRZUTV.NET",Sony
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3118
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://51.222.152.107:81/posters/1502754169326.jpg" group-title="CINEMA MRZUTV.NET",Space
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3119
+
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://51.222.152.107:81/posters/1530596052274.jpg" group-title="CINEMA MRZUTV.NET",Sundance Channel
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3121
+
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="http://51.222.152.107:81/posters/1502754236483.jpg" group-title="CINEMA MRZUTV.NET",SyFy
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3122
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://51.222.152.107:81/posters/1502754245404.jpg" group-title="CINEMA MRZUTV.NET",TBS
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3123
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://51.222.152.107:81/posters/1502754255428.jpg" group-title="CINEMA MRZUTV.NET",TCM
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3124
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://51.222.152.107:81/posters/1502754332530.jpg" group-title="CINEMA MRZUTV.NET",TNT
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3130
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://51.222.152.107:81/posters/1502754343528.jpg" group-title="CINEMA MRZUTV.NET",TNT Series
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3131
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://51.222.152.107:81/posters/1530591750450.jpg" group-title="CINEMA MRZUTV.NET",Warner
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3140
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://51.222.152.107:81/posters/1502754353314.jpg" group-title="INFANTILES MRZUTV.NET",Tooncast
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3132
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://51.222.152.107:81/posters/1502752879305.jpg" group-title="CULTURALES MRZUTV.NET",Animal Planet
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3022
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://51.222.152.107:81/posters/1502753127251.jpg" group-title="CULTURALES MRZUTV.NET",Discovery Channel
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3048
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://51.222.152.107:81/posters/1502753140490.jpg" group-title="CULTURALES MRZUTV.NET",Discovery Civilization
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3049
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://51.222.152.107:81/posters/1502753156412.jpg" group-title="CULTURALES MRZUTV.NET",Discovery H&H
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3050
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://51.222.152.107:81/posters/1502753168445.jpg" group-title="CULTURALES MRZUTV.NET",Investigation Discovery
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3051
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://51.222.152.107:81/posters/1502753199573.jpg" group-title="CULTURALES MRZUTV.NET",Discovery Science
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3053
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://51.222.152.107:81/posters/1502753212241.jpg" group-title="CULTURALES MRZUTV.NET",Discovery Theater
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3054
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="http://51.222.152.107:81/posters/1502753223574.jpg" group-title="CULTURALES MRZUTV.NET",Discovery TLC
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3055
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://51.222.152.107:81/posters/1502753255344.jpg" group-title="CULTURALES MRZUTV.NET",Discovery Turbo
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3056
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="http://51.222.152.107:81/posters/1502753267386.jpg" group-title="CULTURALES MRZUTV.NET",Discovery World
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3057
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ENTRETENIMIENTO MRZUTV.NET",HGTV
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3094
+
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://51.222.152.107:81/posters/1505362463569.jpg" group-title="CULTURALES MRZUTV.NET",History
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3095
+
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="http://51.222.152.107:81/posters/1502753872500.jpg" group-title="ENTRETENIMIENTO MRZUTV.NET",Hola TV
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3096
+
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://51.222.152.107:81/posters/1502754081404.jpg" group-title="CULTURALES MRZUTV.NET",NatGeo Wild
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3110
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://51.222.152.107:81/posters/1502754362141.jpg" group-title="CINEMA MRZUTV.NET",TruTV
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3133
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN +" tvg-logo="http://51.222.152.107:81/posters/1502753422333.jpg" group-title="DEPORTES MRZUTV.NET",ESPN +
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3065
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://51.222.152.107:81/posters/1503464196485.jpg" group-title="DEPORTES MRZUTV.NET",ESPN 1
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3066
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://51.222.152.107:81/posters/1502753463562.jpg" group-title="DEPORTES MRZUTV.NET",ESPN 2
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3067
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://51.222.152.107:81/posters/1502753472346.jpg" group-title="DEPORTES MRZUTV.NET",ESPN 3
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3068
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="" group-title="DEPORTES MRZUTV.NET",ESPN U
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3069
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="http://51.222.152.107:81/posters/1502753675525.jpg" group-title="DEPORTES MRZUTV.NET",FOX Sports 1
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3081
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="http://51.222.152.107:81/posters/1502753687477.jpg" group-title="DEPORTES MRZUTV.NET",FOX Sports 2
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3082
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="http://51.222.152.107:81/posters/1505364166295.jpg" group-title="DEPORTES MRZUTV.NET",FOX Sports 3
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3083
+
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="" group-title="DEPORTES MRZUTV.NET",TVC Deportes
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3134
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="http://51.222.152.107:81/posters/1530597180220.jpg" group-title="CINEMA MRZUTV.NET",Antena 3
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3023
+
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series" tvg-logo="http://51.222.152.107:81/posters/1530597051256.jpg" group-title="CINEMA MRZUTV.NET",A3 Series
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3018
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://51.222.152.107:81/posters/1502409146144.jpg" group-title="ENTRETENIMIENTO MRZUTV.NET",TVE
+http://gratuita.mrzutv.net:8080/listagraootisx994949494sdf94949494949we4949491009495959848449fgfg545d4f54d54fd49494984848449000listagrfdgfdgfdfvfddddddddddfdfdfd988888888888dddgat5888isx100000listagratisx10059595959595959595959595000listagratisx100000listagratisx100000listagratisx100000/listagratisx100000liskfkfkfkfkffkfkfddddddddddddddddffffta9595959595gratisx1000065555555555555555555555555555555555550listagratisx100000listagratisx9998100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagratisx100000listagr/3135
+
+-
